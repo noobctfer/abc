@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F94CC0-1B75-42EA-9F50-631061FF85A0}|ConsoleApplication1.vcxproj|C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_gcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F94CC0-1B75-42EA-9F50-631061FF85A0}|ConsoleApplication1.vcxproj|solutionrelative:sm4_gcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F94CC0-1B75-42EA-9F50-631061FF85A0}|ConsoleApplication1.vcxproj|C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F94CC0-1B75-42EA-9F50-631061FF85A0}|ConsoleApplication1.vcxproj|solutionrelative:sm4_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sm4_gcm.cpp",
+              "DocumentMoniker": "C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_gcm.cpp",
+              "RelativeDocumentMoniker": "sm4_gcm.cpp",
+              "ToolTip": "C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_gcm.cpp",
+              "RelativeToolTip": "sm4_gcm.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T08:40:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sm4_base.cpp",
+              "DocumentMoniker": "C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_base.cpp",
+              "RelativeDocumentMoniker": "sm4_base.cpp",
+              "ToolTip": "C:\\Users\\2555\\Desktop\\\u7F51\u5B89\u5B9E\u8DF5\\\u5B9E\u9A8C\u4E00SM4\u4F18\u5316\\ConsoleApplication1\\sm4_base.cpp",
+              "RelativeToolTip": "sm4_base.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAF8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T08:22:13.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
